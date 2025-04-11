@@ -2,7 +2,7 @@ creditcard.csv
 test.csv
 train.csv
 test.ipynb
-result.csv
+results.csv
 
 # Mac OS-specific storage files
 .DS_Store
